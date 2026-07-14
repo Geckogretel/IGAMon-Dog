@@ -1,30 +1,30 @@
 Schritt;Team;Datum;Tage_Ziel;Differenz_Durchschnitt;Ziel_erreicht;Belohnung;Anzeigedauer;Mindestdauer_Anzeige_erreicht;Anzeige;Stoerreiz;Bemerkung;FCI_Gruppe;Rasse;Alter;Erfahrung;Geschlecht;Verstaerkerwahl;Anzeigeverhalten;Zielart;Zielobjekt
 1;69980;13.09.2021;2;-24,5;1;korrekt;6;1;rp;0;;7;Langhaar Weimaraner;2;2;m;Futter;steht;Fallopia japonica;Kong
-3;69980;15.09.2021;4;-46;1;korrekt;5;1;rp;0;"angegeben als Schritt 2, jedoch Kong auf Boden; sp√§ter im Video 10 sec";7;Langhaar Weimaraner;2;2;m;Futter;steht;Fallopia japonica;Kong
+3;69980;15.09.2021;4;-46;1;korrekt;5;1;rp;0;"angegeben als Schritt 2, jedoch Kong auf Boden; sp‰ter im Video 10 sec";7;Langhaar Weimaraner;2;2;m;Futter;steht;Fallopia japonica;Kong
 4;69980;03.11.2021;53;-27,5;1;korrekt;5;1;rp;1;"angegeben als Schritt 9; Katzen im Zimmer";7;Langhaar Weimaraner;2;2;m;Futter;steht;Fallopia japonica;Kong
 5;69980;11.12.2021;91;2,818181818;1;korrekt;5;1;rp;1;Katzen im Zimmer;7;Langhaar Weimaraner;2;2;m;Futter;steht;Fallopia japonica;Kong
 6;69980;17.11.2021;67;-26,7;1;korrekt;10;1;rp;1;Katzen im Zimmer;7;Langhaar Weimaraner;2;2;m;Futter;steht;Fallopia japonica;Kong
 7;69980;15.01.2022;126;9,888888889;1;korrekt;5;1;rp;1;im Hof;7;Langhaar Weimaraner;2;2;m;Futter;steht;Fallopia japonica;Kong
 8;69980;27.01.2022;138;-10,27272727;1;korrekt;1;1;rp;0;;7;Langhaar Weimaraner;2;2;m;Futter;steht;Fallopia japonica;Kong
 9;69980;27.01.2022;138;-9;1;korrekt;1;1;rp;0;;7;Langhaar Weimaraner;2;2;m;Futter;steht;Fallopia japonica;Kong
-10;69980;14.02.2022;156;4;0;korrekt;3;0;rp;1;"Hund ber√ºhrt Pflanze oft; generell sehr hohe Motivation, Katzen im Zimmer";7;Langhaar Weimaraner;2;2;m;Futter;steht;Fallopia japonica;Pflanze
+10;69980;14.02.2022;156;4;0;korrekt;3;0;rp;1;"Hund ber¸hrt Pflanze oft; generell sehr hohe Motivation, Katzen im Zimmer";7;Langhaar Weimaraner;2;2;m;Futter;steht;Fallopia japonica;Pflanze
 3;70021;21.09.2021;10;-40;1;korrekt;6;1;rp;0;"Kong liegt auf Podest; Trainingsschritte bei Team bereits vorerfahren";1;Malinois;7;2;w;Spielzeug;steht;Impatiens glandulifera;Kong
-4;70021;13.11.2021;63;-17,5;0;korrekt;2;0;rp;1;Radio im Hintergrund, Durchf√ºhrung korrekt, jedoch zu kurze Anzeige;1;Malinois;7;2;w;Spielzeug;steht;Impatiens glandulifera;Kong
-5;70021;26.12.2021;106;17,81818182;0;korrekt;3;0;rp;2;Hunde im Raum, Durchf√ºhrung korrekt, jedoch zu kurze Anzeige;1;Malinois;7;2;w;Spielzeug;steht;Impatiens glandulifera;Kong
-6;70021;07.12.2021;87;-6,7;0;korrekt;4;0;rp;2;"Durchf√ºhrung korrekt, jedoch zu kurze Anzeige; Radio, andere Personen und Hunde im Raum";1;Malinois;7;2;w;Spielzeug;steht;Impatiens glandulifera;Kong
-7;70021;01.01.2022;112;-4,111111111;0;korrekt;3;0;rp;2;"drau√üen, Verkehr, Personen; Anzeige zu kurz";1;Malinois;7;2;w;Spielzeug;steht;Impatiens glandulifera;Kong
+4;70021;13.11.2021;63;-17,5;0;korrekt;2;0;rp;1;Radio im Hintergrund, Durchf¸hrung korrekt, jedoch zu kurze Anzeige;1;Malinois;7;2;w;Spielzeug;steht;Impatiens glandulifera;Kong
+5;70021;26.12.2021;106;17,81818182;0;korrekt;3;0;rp;2;Hunde im Raum, Durchf¸hrung korrekt, jedoch zu kurze Anzeige;1;Malinois;7;2;w;Spielzeug;steht;Impatiens glandulifera;Kong
+6;70021;07.12.2021;87;-6,7;0;korrekt;4;0;rp;2;"Durchf¸hrung korrekt, jedoch zu kurze Anzeige; Radio, andere Personen und Hunde im Raum";1;Malinois;7;2;w;Spielzeug;steht;Impatiens glandulifera;Kong
+7;70021;01.01.2022;112;-4,111111111;0;korrekt;3;0;rp;2;"drauﬂen, Verkehr, Personen; Anzeige zu kurz";1;Malinois;7;2;w;Spielzeug;steht;Impatiens glandulifera;Kong
 8;70021;19.02.2022;161;12,72727273;1;korrekt;1;1;rp;0;;1;Malinois;7;2;w;Spielzeug;steht;Impatiens glandulifera;Kong
 9;70021;19.02.2022;161;14;1;korrekt;1;1;rp;0;;1;Malinois;7;2;w;Spielzeug;steht;Impatiens glandulifera;Kong
 12;70021;21.03.2022;191;23;1;korrekt;5;1;rp;2;auf Wiese, Windig;1;Malinois;7;2;w;Spielzeug;steht;Impatiens glandulifera;Pflanze
 1;70033;23.10.2021;42;15,5;1;korrekt;5;1;rp;0;Hund winselt, wedelt aufgeregt mit dem Schwanz;7;Magyar Viszla;7;2;m;Futter;steht;Fallopia japonica;Kong
 2;70033;30.10.2021;49;2,6;1;korrekt;5;1;rp;0;Hund hat Ttouch Band um;7;Magyar Viszla;7;2;m;Futter;steht;Fallopia japonica;Kong
 3;70033;31.10.2021;50;0;1;korrekt;6;1;rp;0;Hund hat Ttouch Band um;7;Magyar Viszla;7;2;m;Futter;steht;Fallopia japonica;Kong
-4;70033;18.11.2021;68;-12,5;1;korrekt;7;1;rp;0;Kafka sitzt, winseln, wedeln, nerv√∂s;7;Magyar Viszla;7;2;m;Futter;steht;Fallopia japonica;Kong
-5;70033;07.12.2021;87;-1,181818182;1;korrekt;5;1;rp;0;nerv√∂s, winseln, Schwanz wedeln;7;Magyar Viszla;7;2;m;Futter;steht;Fallopia japonica;Kong
-6;70033;07.12.2021;87;-6,7;1;korrekt;8;1;rp;0;nerv√∂s, winseln, Schwanz wedeln;7;Magyar Viszla;7;2;m;Futter;steht;Fallopia japonica;Kong
+4;70033;18.11.2021;68;-12,5;1;korrekt;7;1;rp;0;Kafka sitzt, winseln, wedeln, nervˆs;7;Magyar Viszla;7;2;m;Futter;steht;Fallopia japonica;Kong
+5;70033;07.12.2021;87;-1,181818182;1;korrekt;5;1;rp;0;nervˆs, winseln, Schwanz wedeln;7;Magyar Viszla;7;2;m;Futter;steht;Fallopia japonica;Kong
+6;70033;07.12.2021;87;-6,7;1;korrekt;8;1;rp;0;nervˆs, winseln, Schwanz wedeln;7;Magyar Viszla;7;2;m;Futter;steht;Fallopia japonica;Kong
 7;70033;16.01.2022;127;10,88888889;1;korrekt;6;1;rp;1;Garten;7;Magyar Viszla;7;2;m;Futter;steht;Fallopia japonica;Kong
-8;70033;18.02.2022;160;11,72727273;1;korrekt;5;1;rp;0;"nerv√∂s, winseln, Schwanz wedeln; Besitzerin hektisch";7;Magyar Viszla;7;2;m;Futter;steht;Fallopia japonica;Kong
-9;70033;18.02.2022;160;13;1;korrekt;1;1;rp;0;"nerv√∂s, winseln, Schwanz wedeln; Besitzerin hektisch";7;Magyar Viszla;7;2;m;Futter;steht;Fallopia japonica;Kong
+8;70033;18.02.2022;160;11,72727273;1;korrekt;5;1;rp;0;"nervˆs, winseln, Schwanz wedeln; Besitzerin hektisch";7;Magyar Viszla;7;2;m;Futter;steht;Fallopia japonica;Kong
+9;70033;18.02.2022;160;13;1;korrekt;1;1;rp;0;"nervˆs, winseln, Schwanz wedeln; Besitzerin hektisch";7;Magyar Viszla;7;2;m;Futter;steht;Fallopia japonica;Kong
 12;70033;12.03.2022;182;14;1;korrekt;5;1;rp;2;Park, weitere Person;7;Magyar Viszla;7;2;m;Futter;steht;Fallopia japonica;Pflanze
 1;70034;22.09.2021;11;-15,5;1;korrekt;5;1;rp;0;;1;Lapinporokoira;3;3;m;Futter;steht;Impatiens glandulifera;Kong
 2;70034;26.09.2021;15;-31,4;1;korrekt;5;1;rp;1;weiterer Hund im Raum;1;Lapinporokoira;3;3;m;Futter;steht;Impatiens glandulifera;Kong
@@ -36,9 +36,9 @@ Schritt;Team;Datum;Tage_Ziel;Differenz_Durchschnitt;Ziel_erreicht;Belohnung;Anze
 8;70034;25.01.2022;136;-12,27272727;1;korrekt;3;1;rp;1;weiterer Hund im Raum;1;Lapinporokoira;3;3;m;Futter;steht;Impatiens glandulifera;Kong
 9;70034;25.01.2022;136;-11;1;korrekt;1;1;rp;1;weiterer Hund im Raum;1;Lapinporokoira;3;3;m;Futter;steht;Impatiens glandulifera;Kong
 12;70034;11.02.2022;153;-15;1;korrekt;5;1;rp;3;Wiese, Wildeinfluss, weiterer Hund dabei;1;Lapinporokoira;3;3;m;Futter;steht;Impatiens glandulifera;Pflanze
-3;70035;13.11.2021;63;13;1;korrekt;5;1;rp;0;;1;Deutscher Sch√§ferhund;1;2;w;Futter;steht;Impatiens glandulifera;Kong
-4;70035;21.12.2021;101;20,5;0;korrekt;3;0;rp;0;Anzeige zu kur;1;Deutscher Sch√§ferhund;1;2;w;Futter;steht;Impatiens glandulifera;Kong
-5;70035;06.01.2022;117;28,81818182;0;fehlerhaft;3;0;rp;1;"drau√üen; Belohnung trotz unterbrochener Anzeige";1;Deutscher Sch√§ferhund;1;2;w;Futter;steht;Impatiens glandulifera;Kong
+3;70035;13.11.2021;63;13;1;korrekt;5;1;rp;0;;1;Deutscher Sch‰ferhund;1;2;w;Futter;steht;Impatiens glandulifera;Kong
+4;70035;21.12.2021;101;20,5;0;korrekt;3;0;rp;0;Anzeige zu kur;1;Deutscher Sch‰ferhund;1;2;w;Futter;steht;Impatiens glandulifera;Kong
+5;70035;06.01.2022;117;28,81818182;0;fehlerhaft;3;0;rp;1;"drauﬂen; Belohnung trotz unterbrochener Anzeige";1;Deutscher Sch‰ferhund;1;2;w;Futter;steht;Impatiens glandulifera;Kong
 1;70037;05.11.2021;55;28,5;1;korrekt;5;1;rp;1;im Hof;0;Mix;10;3;w;Futter;liegt;Fallopia japonica;Kong
 2;70037;13.11.2021;63;16,6;1;korrekt;5;1;rp;1;im Hof;0;Mix;10;3;w;Futter;liegt;Fallopia japonica;Kong
 3;70037;14.01.2022;125;75;1;korrekt;5;1;rp;1;"im Garten; Hund brauchte lange, bis Besitzerin Hand vom Kong entfernen konnte ohne dass Hund Hand folgt";0;Mix;10;3;w;Futter;liegt;Fallopia japonica;Kong
@@ -54,7 +54,7 @@ Schritt;Team;Datum;Tage_Ziel;Differenz_Durchschnitt;Ziel_erreicht;Belohnung;Anze
 4;70038;13.11.2021;63;-17,5;1;korrekt;6;1;rp;0;;0;Mix;1;1;w;Futter;steht;Impatiens glandulifera;Kong
 5;70038;13.11.2021;63;-25,18181818;1;korrekt;5;1;rp;0;;0;Mix;1;1;w;Futter;steht;Impatiens glandulifera;Kong
 6;70038;07.12.2021;87;-6,7;1;korrekt;5;1;rp;0;;0;Mix;1;1;w;Futter;steht;Impatiens glandulifera;Kong
-7;70038;14.01.2022;125;8,888888889;1;korrekt;5;1;rp;1;drau√üen, Wiese, Verkehr;0;Mix;1;1;w;Futter;steht;Impatiens glandulifera;Kong
+7;70038;14.01.2022;125;8,888888889;1;korrekt;5;1;rp;1;drauﬂen, Wiese, Verkehr;0;Mix;1;1;w;Futter;steht;Impatiens glandulifera;Kong
 8;70038;15.01.2022;126;-22,27272727;1;korrekt;3;1;rp;0;;0;Mix;1;1;w;Futter;steht;Impatiens glandulifera;Kong
 9;70038;15.01.2022;126;-21;1;korrekt;2;1;rp;0;;0;Mix;1;1;w;Futter;steht;Impatiens glandulifera;Kong
 10;70038;17.01.2022;128;-24;1;korrekt;5;1;rp;0;;0;Mix;1;1;w;Futter;steht;Impatiens glandulifera;Pflanze
@@ -63,7 +63,7 @@ Schritt;Team;Datum;Tage_Ziel;Differenz_Durchschnitt;Ziel_erreicht;Belohnung;Anze
 1;70039;01.11.2021;51;24,5;0;korrekt;3;0;rp;0;Anzeige zu kurz;1;Welsh Corgi Cardigan;4;1;w;Futter;steht;Ambrosia artemisiifolia;Kong
 2;70039;01.11.2021;51;4,6;1;korrekt;5;1;rp;0;;1;Welsh Corgi Cardigan;4;1;w;Futter;steht;Ambrosia artemisiifolia;Kong
 3;70039;11.11.2021;61;11;1;korrekt;5;1;rp;0;;1;Welsh Corgi Cardigan;4;1;w;Futter;steht;Ambrosia artemisiifolia;Kong
-4;70039;11.12.2021;91;10,5;1;korrekt;5;1;rp;0;Besitzerin l√§sst mehrere Sekunden zwischen Marker und Belohnung vergehen;1;Welsh Corgi Cardigan;4;1;w;Futter;steht;Ambrosia artemisiifolia;Kong
+4;70039;11.12.2021;91;10,5;1;korrekt;5;1;rp;0;Besitzerin l‰sst mehrere Sekunden zwischen Marker und Belohnung vergehen;1;Welsh Corgi Cardigan;4;1;w;Futter;steht;Ambrosia artemisiifolia;Kong
 5;70039;27.12.2021;107;18,81818182;1;korrekt;5;1;rp;0;;1;Welsh Corgi Cardigan;4;1;w;Futter;steht;Ambrosia artemisiifolia;Kong
 6;70039;05.01.2022;116;22,3;0;korrekt;3;0;rp;0;Anzeige zu kurz;1;Welsh Corgi Cardigan;4;1;w;Futter;steht;Ambrosia artemisiifolia;Kong
 8;70039;19.02.2022;161;12,72727273;1;korrekt;3;1;rp;0;;1;Welsh Corgi Cardigan;4;1;w;Futter;steht;Ambrosia artemisiifolia;Kong
@@ -72,7 +72,7 @@ Schritt;Team;Datum;Tage_Ziel;Differenz_Durchschnitt;Ziel_erreicht;Belohnung;Anze
 4;70040;20.11.2021;70;-10,5;1;korrekt;5;1;rp;1;weitere Personen im Hintergrund;0;Mix;3;1;w;Futter;steht;Impatiens glandulifera;Kong
 5;70040;14.12.2021;94;5,818181818;1;korrekt;5;1;rp;1;weitere Personen im Hintergrund;0;Mix;3;1;w;Futter;steht;Impatiens glandulifera;Kong
 6;70040;20.11.2021;70;-23,7;1;korrekt;5;1;rp;1;weitere Personen im Hintergrund;0;Mix;3;1;w;Futter;steht;Impatiens glandulifera;Kong
-7;70040;14.12.2021;94;-22,11111111;1;fehlerhaft;5;1;rp;1;"Garten; Hund hat Kong mehrfach ber√ºhrt, diese Durchg√§nge wurden trotzdem belohnt";0;Mix;3;1;w;Futter;steht;Impatiens glandulifera;Kong
+7;70040;14.12.2021;94;-22,11111111;1;fehlerhaft;5;1;rp;1;"Garten; Hund hat Kong mehrfach ber¸hrt, diese Durchg‰nge wurden trotzdem belohnt";0;Mix;3;1;w;Futter;steht;Impatiens glandulifera;Kong
 8;70040;29.01.2022;140;-8,272727273;1;korrekt;1;1;rp;1;weitere Personen im Hintergrund, Katze im Zimmer;0;Mix;3;1;w;Futter;steht;Impatiens glandulifera;Kong
 9;70040;29.01.2022;140;-7;1;korrekt;1;1;rp;1;weitere Personen im Hintergrund, Katze im Zimmer;0;Mix;3;1;w;Futter;steht;Impatiens glandulifera;Kong
 10;70040;29.01.2022;140;-12;0;korrekt;3;0;rp;1;"weitere Personen im Hintergrund, Katze im Zimmer; Anzeige zu kurz";0;Mix;3;1;w;Futter;steht;Impatiens glandulifera;Pflanze
@@ -86,12 +86,12 @@ Schritt;Team;Datum;Tage_Ziel;Differenz_Durchschnitt;Ziel_erreicht;Belohnung;Anze
 6;70044;11.12.2021;91;-2,7;1;korrekt;5;1;rp;0;;8;Lagotto Romagnolo;1;2;m;Futter;steht;Ambrosia artemisiifolia;Kong
 7;70044;31.12.2021;111;-5,111111111;1;korrekt;5;1;rp;2;im Park;8;Lagotto Romagnolo;1;2;m;Futter;steht;Ambrosia artemisiifolia;Kong
 8;70044;19.02.2022;161;12,72727273;1;korrekt;2;1;rp;0;;8;Lagotto Romagnolo;1;2;m;Futter;steht;Ambrosia artemisiifolia;Kong
-9;70044;19.02.2022;161;14;1;korrekt;1;1;rp;0;Hund ber√ºhrt Pflanze;8;Lagotto Romagnolo;1;2;m;Futter;steht;Ambrosia artemisiifolia;Kong
+9;70044;19.02.2022;161;14;1;korrekt;1;1;rp;0;Hund ber¸hrt Pflanze;8;Lagotto Romagnolo;1;2;m;Futter;steht;Ambrosia artemisiifolia;Kong
 3;70063;18.10.2021;37;-13;1;korrekt;5;1;rp;0;;8;Nova Scotia-Golden Retriever;2;2;w;Futter;steht;Fallopia japonica;Kong
 4;70063;09.11.2021;59;-21,5;1;korrekt;5;1;rp;1;weitere Person im Raum;8;Nova Scotia-Golden Retriever;2;2;w;Futter;steht;Fallopia japonica;Kong
 5;70063;13.11.2021;63;-25,18181818;1;korrekt;5;1;rp;1;weitere Person im Raum;8;Nova Scotia-Golden Retriever;2;2;w;Futter;steht;Fallopia japonica;Kong
 6;70063;25.01.2022;136;42,3;1;korrekt;5;1;rp;1;weitere Person im Raum;8;Nova Scotia-Golden Retriever;2;2;w;Futter;steht;Fallopia japonica;Kong
-7;70063;14.02.2022;156;39,88888889;1;korrekt;5;1;rp;2;drau√üen, weitere Person anwesend, windig;8;Nova Scotia-Golden Retriever;2;2;w;Futter;steht;Fallopia japonica;Kong
+7;70063;14.02.2022;156;39,88888889;1;korrekt;5;1;rp;2;drauﬂen, weitere Person anwesend, windig;8;Nova Scotia-Golden Retriever;2;2;w;Futter;steht;Fallopia japonica;Kong
 8;70063;19.02.2022;161;12,72727273;1;korrekt;5;1;rp;1;weitere Person im Raum;8;Nova Scotia-Golden Retriever;2;2;w;Futter;steht;Fallopia japonica;Kong
 9;70063;19.02.2022;161;14;1;korrekt;1;1;rp;1;weitere Person im Raum;8;Nova Scotia-Golden Retriever;2;2;w;Futter;steht;Fallopia japonica;Kong
 1;70068;16.10.2021;35;8,5;1;korrekt;6;1;rp;0;;0;Mix;1;2;m;Spielzeug;sitzt;Fallopia japonica;Kong
@@ -101,10 +101,10 @@ Schritt;Team;Datum;Tage_Ziel;Differenz_Durchschnitt;Ziel_erreicht;Belohnung;Anze
 7;70068;05.11.2021;55;-61,11111111;1;korrekt;6;1;rp;0;im Hof;0;Mix;1;2;m;Spielzeug;sitzt;Fallopia japonica;Kong
 8;70068;15.01.2022;126;-22,27272727;1;korrekt;2;1;rp;0;;0;Mix;1;2;m;Spielzeug;sitzt;Fallopia japonica;Kong
 9;70068;15.01.2022;126;-21;1;korrekt;2;1;rp;0;;0;Mix;1;2;m;Spielzeug;sitzt;Fallopia japonica;Kong
-12;70068;10.02.2022;152;-16;1;korrekt;5;1;rp;2;"drau√üen, es schneit, weiterer Hund dabei; hat altes H√∂rzeichen behalten";0;Mix;1;2;m;Spielzeug;sitzt;Fallopia japonica;Pflanze
+12;70068;10.02.2022;152;-16;1;korrekt;5;1;rp;2;"drauﬂen, es schneit, weiterer Hund dabei; hat altes Hˆrzeichen behalten";0;Mix;1;2;m;Spielzeug;sitzt;Fallopia japonica;Pflanze
 1;70069;23.10.2021;42;15,5;0;korrekt;2;0;rp;0;Anzeige zu kurz;7;Magyar Viszla;2;2;w;Spielzeug;liegt;Fallopia japonica;Kong
 3;70069;23.12.2021;103;53;0;korrekt;3;0;rp;0;Anzeige zu kurz;7;Magyar Viszla;2;2;w;Spielzeug;liegt;Fallopia japonica;Kong
 4;70069;18.01.2022;129;48,5;1;korrekt;5;1;rp;0;;7;Magyar Viszla;2;2;w;Spielzeug;liegt;Fallopia japonica;Kong
 5;70069;18.01.2022;129;40,81818182;1;korrekt;5;1;rp;0;;7;Magyar Viszla;2;2;w;Spielzeug;liegt;Fallopia japonica;Kong
 6;70069;22.01.2022;133;39,3;1;korrekt;5;1;rp;0;manchmal Anzeige liegend/sitzend;7;Magyar Viszla;2;2;w;Spielzeug;liegt;Fallopia japonica;Kong
-7;70069;24.02.2022;166;49,88888889;1;korrekt;5;1;rp;2;drau√üen (sieht recht wild aus), Hund sehr motiviert bei Suche;7;Magyar Viszla;2;2;w;Spielzeug;liegt;Fallopia japonica;Kong
+7;70069;24.02.2022;166;49,88888889;1;korrekt;5;1;rp;2;drauﬂen (sieht recht wild aus), Hund sehr motiviert bei Suche;7;Magyar Viszla;2;2;w;Spielzeug;liegt;Fallopia japonica;Kong

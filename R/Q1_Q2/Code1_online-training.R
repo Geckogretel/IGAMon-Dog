@@ -15,7 +15,8 @@ require(ggpubr)
 require(performance)
 library(patchwork)
 library(cowplot)
-
+library(DHARMa)
+library(performance)
 
 # Data preparation ####
 ## Read data ####
@@ -139,6 +140,7 @@ head(mod.lm.t1a)
 get.models(mod.lm.t1a,1:2)
 sw(mod.lm.t1a) # parameter importance
 
+# model validation
 plot(lm.t1a)  # all good
 
 ## Model b Training parameters ####
@@ -157,6 +159,7 @@ sw(mod.lm.t1b) # parameter importance
 # quick overview:
 plot(allEffects(lm.t1b))
 
+# model validation
 plot(lm.t1b)  # all good
 
 ## Model c Basic Parameters ####
@@ -165,7 +168,7 @@ vif(lm.t1c) # check collinearity, all fine
 drop1(lm.t1c, test="F")
 summary(lm.t1c)
 
-# Modellselektion
+# model selection
 mod.lm.t1c <- dredge(lm.t1c, rank = "AIC")
 head(mod.lm.t1c)
 get.models(mod.lm.t1c,1:2)
@@ -175,6 +178,7 @@ sw(mod.lm.t1c)
 # quick overview:
 plot(allEffects(lm.t1c))
 
+# model validation
 plot(lm.t1c)  # all good
 
 # some simple visualisations to understand results
@@ -216,7 +220,16 @@ get.models(mod.lm.t2a,1:2)
 table(training$Team,training$Ziel_erreicht)
 boxplot(Ziel_erreicht~Team,data=training)
 
+# model validation
 deviance(lm.t2a) / df.residual(lm.t2a)
+simulationOutput <- simulateResiduals(fittedModel = lm.t2a, plot = T)
+testDispersion(lm.t2a) 
+testQuantiles(lm.t2a) 
+# all not significant, so ok
+check_residuals(lm.t2a)
+check_convergence(lm.t2a)
+check_overdispersion(lm.t2a)
+# no deviations
 
 ## Model b Training ####
 lm.t2b <- glm(Ziel_erreicht ~ Stoerreiz +  sc.Differenz_Durchschnitt + Zielobjekt + Schritt + Zielart, data = training, family = "binomial")
@@ -239,6 +252,16 @@ plot(allEffects(lm.t2b))
 table(training$Ziel_erreicht,training$MindestdauerAnzeige) # perfect correlation
 boxplot(Ziel_erreicht~MindestdauerAnzeige,data=training)
 
+# model validation
+deviance(lm.t2b) / df.residual(lm.t2b)
+simulationOutput <- simulateResiduals(fittedModel = lm.t2b, plot = T)
+testDispersion(lm.t2b) 
+testQuantiles(lm.t2b) 
+# all not significant, so ok
+check_residuals(lm.t2b)
+check_convergence(lm.t2b)
+check_overdispersion(lm.t2b)
+# no deviations
 
 ## Model c Basis ####
 lm.t2c <- glm(Ziel_erreicht ~ Kohorte + FCI_Gruppe + Erfahrung + Verstaerkerwahl + Alter + Anzeigeverhalten, data = training, family = "binomial")
@@ -253,6 +276,17 @@ get.models(mod.lm.t2c,1:4)
 sw(mod.lm.t2c)
 
 # most important are FCI breed group, reward type, alert behaviour
+
+# model validation
+deviance(lm.t2c) / df.residual(lm.t2c)
+simulationOutput <- simulateResiduals(fittedModel = lm.t2c, plot = T)
+testDispersion(lm.t2c) 
+testQuantiles(lm.t2c) 
+# all not significant, so ok
+check_residuals(lm.t2c)
+check_convergence(lm.t2c)
+check_overdispersion(lm.t2c)
+# no deviations
 
 # initial visualisation:
 lm.t2c1 <- glm(Ziel_erreicht ~ Kohorte + Erfahrung + Verstaerkerwahl + Alter + Zielart, data = training, family = "binomial")
