@@ -1,0 +1,28 @@
+team;FCI_group;Breed;Dog_age;Team_experience;Dog_sex;Reward_type;Alert_behaviour;Target_species;diff_goal;rel_goal;nr_steps;year;start 1;finish 1;start 2;finish 2;start 3;finish 3;sum;nr samples;found samples;detection rate;final points;nr fresh samples;fresh_test;field_test;field_participation;det_rate_field;Conservation;Responsibility;Science;Community;Qualification;Self.efficacy;Work.life.balance;Career;Dog.training;cohort
+69980;7;Longhaired Weimaraner;2;2;male;food;freeze;Fallopia japonica;-16,4;88,89;9;2022;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;6;5;3;5;6;2;3;2;6;C1
+70021;1;Malinois;7;2;female;toy;freeze;Impatiens glandulifera;2,4;50;8;2022;1;1;2;0;3;0;7;4;2;0,5;3,5;0;0;3;1;0,666666667;6;6;6;6;6;6;6;6;6;C1
+70033;7;Magyar Viszla;7;2;male;food;freeze;Fallopia japonica;4,7;100;10;2022;1;1;2;1;3;1;9;4;2;0,5;4,5;2;0,5;3;1;0,666666667;6;6;5;5;6;5;4;5;6;C1
+70034;1;Lapinporokoira;3;3;male;food;freeze;Impatiens glandulifera;-25,7;90;10;2022;1;1;2;1;3;1;9;5;5;1;9;0;0;3;1;0,5;4;1;5;4;1;4;1;6;6;C1
+70035;1;German Shepherd;1;2;female;food;freeze;Impatiens glandulifera;13;33,33;3;2022;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;5;4;4;2;4;2;2;1;5;C1
+70037;0;Mix;10;3;female;food;lay;Fallopia japonica;43,5;90;10;2022;1;1;2;1;3;1;9;5;3;0,6;5,4;4;0,8;2;1;0,666666667;6;6;6;6;6;3;5;5;6;C1
+70038;0;Mix;1;1;female;food;freeze;Impatiens glandulifera;-12,8;100;11;2022;1;1;2;1;3;1;9;4;3;0,75;6,75;0;0;0;0;NA;6;5;5;5;6;2;4;2;6;C1
+70039;1;Welsh Corgi Cardigan;4;1;female;food;freeze;Ambrosia artemisiifolia;11,5;71,43;7;2022;1;1;2;1;3;0;8;5;5;1;8;1;0,2;0;0;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;C1
+70040;0;Mix;3;1;female;food;freeze;Impatiens glandulifera;-6,9;81,82;11;2022;1;0;2;1;3;1;8;4;4;1;8;0;0;0;0;NA;6;4;5;5;5;4;2;1;6;C1
+70044;8;Lagotto Romagnolo;1;2;male;food;freeze;Ambrosia artemisiifolia;6,5;100;9;2022;1;1;2;1;3;1;9;4;3;0,75;6,75;3;0,75;3;1;0,8;6;6;6;3;2;1;1;2;6;C1
+70063;8;Nova Scotia - Golden Retriever Cross;2;2;female;food;freeze;Fallopia japonica;7;100;7;2022;1;1;2;1;3;0;8;3;2;0,666666667;5,333333333;2;0,666666667;0;0;NA;6;4;3;2;3;3;4;4;6;C1
+70068;0;Mix;1;2;male;toy;sit;Fallopia japonica;-29,8;100;8;2022;1;1;2;1;3;0;8;4;3;0,75;6;3;0,75;3;1;1;5;6;5;5;5;4;6;6;6;C1
+70069;7;Magyar Viszla;2;2;female;toy;lay;Fallopia japonica;44,6;66,67;6;2022;1;1;2;1;3;1;9;5;4;0,8;7,2;3;0,6;0;0;NA;5;4;5;1;5;5;5;5;6;C1
+78724;2;Miniature Schnauzer;3;1;male;food;freeze;Fallopia japonica;25,3;87,5;8;2023;1;1;2;1;0;0;5;3;1;0,333333333;1,666666667;1;0,333333333;3;1;0,6;6;5;6;5;6;4;5;1;6;C2
+78759;0;Labradoodle;5;0;male;food;sit;Ambrosia artemisiifolia;-25,1;100;8;2023;1;1;2;1;0;0;5;3;0;0;0;2;0,666666667;0;0;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;C2
+78924;8;Lagotto Romagnolo;2;1;male;food;freeze;Fallopia japonica;43,3;100;7;2023;1;1;2;1;0;0;5;3;1;0,333333333;1,666666667;2;0,666666667;1;1;0;3;2;6;3;5;5;6;1;6;C2
+79118;1;German Shepherd -Mix;3;1;female;both;freeze;Impatiens glandulifera;-36,9;100;8;2023;1;1;2;1;0;0;5;2;1;0,5;2,5;1;0,5;0;0;NA;6;5;4;5;5;3;4;4;6;C2
+79309;7;Pointer -Mix;3;2;female;food;freeze;Impatiens glandulifera;-54,5;100;8;2023;1;1;2;1;3;1;9;5;3;0,6;5,4;4;0,8;3;1;1;5;5;5;3;5;1;1;1;6;C2
+79313;6;Wire-haired dachshund;1;1;male;food;freeze;Ambrosia artemisiifolia;-31,5;100;8;2023;1;1;2;1;0;0;5;3;2;0,666666667;3,333333333;1;0,333333333;3;1;NA;6;5;6;4;2;2;1;5;6;C2
+79316;1;Tervueren;1;2;female;both;freeze;Impatiens glandulifera;0,1;87,5;8;2023;1;1;2;1;3;1;9;5;3;0,6;5,4;3;0,6;0;0;NA;5;5;6;3;6;3;3;3;6;C2
+79322;1;Long-haired collie;2;3;male;food;freeze;Impatiens glandulifera;57,5;75;8;2023;1;1;2;1;3;0;8;4;1;0,25;2;3;0,75;3;1;1;4;4;5;5;5;4;4;4;6;C2
+79341;8;Lagotto Romagnolo;2;0;male;food;freeze;Ambrosia artemisiifolia;35,1;100;8;2023;1;1;2;1;3;0;8;4;1;0,25;2;3;0,75;0;0;NA;6;6;6;4;4;5;6;3;6;C2
+79362;1;Czechoslovakian Wolfhound;1;0;male;food;freeze;Impatiens glandulifera;-7,7;50;6;2023;1;1;2;1;0;0;5;3;0;0;0;2;0,666666667;0;0;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;C2
+79372;3;Cairn Terrier;1;2;female;food;freeze;Fallopia japonica;113;66,67;3;2023;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;6;6;6;4;6;4;6;6;6;C2
+79374;0;Mix;3;3;male;food;freeze;Fallopia japonica;-70,4;100;8;2023;1;1;2;1;0;0;5;4;1;0,25;1,25;2;0,5;0;0;NA;3;3;3;4;2;5;4;4;6;C2
+79422;0;Golden Retriever - Catahoula Cross;1;2;male;food;freeze;Fallopia japonica;22,4;83,33;6;2023;1;1;2;1;0;0;5;3;1;0,333333333;1,666666667;2;0,666666667;0;0;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;C2
+79430;5;Laika-Mix;NA;3;male;food;freeze;Fallopia japonica;NA;NA;NA;2023;1;1;2;1;3;0;8;4;2;0,5;4;3;0,75;3;1;0,571428571;4;1;5;4;1;4;1;6;6;C2
