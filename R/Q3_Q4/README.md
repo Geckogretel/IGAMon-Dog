@@ -15,9 +15,9 @@ This data was collected at the practical seminars on 2-3 March and 8 May 2022 (C
 * temp: temperature during the test in °C
 * humidity: humidity during the test in %
 * weather: weather conditions during the test: sunny, partly cloudy, cloudy, rainy
-* wind: Wind strength during the test checked by observing trees following Isyumov N \& Davenport AG (1975); none, slight, intermittent, moderate, or severe, referring to Beaufort scale 0-1, 2, 3, 4, 5 or more, respectively
+* wind: wind strength during the test checked by observing trees following Isyumov N \& Davenport AG (1975); none, slight, intermittent, moderate, or severe, referring to Beaufort scale 0-1, 2, 3, 4, 5 or more, respectively
 * wind direction: direction where the wind came from
-* sample number: numer of samples hidden during one test
+* sample number: number of samples hidden during one test
 * sample condition: condition of the hidden sample in the test (fresh or frozen, referred to as "thawed")
 * search: test session number (first, second or third test)
 * sample: plant samples were numbered to ensure the dog is able to find different samples
@@ -34,7 +34,7 @@ This data was collected at the practical seminars on 2-3 March and 8 May 2022 (C
 
 ## data description - survey
 
-This data was collected using a questionnaire on training habits during the project.
+This data was collected using a questionnaire on training habits during the practical seminar.
 
 ## variable description - survey
 
@@ -49,7 +49,7 @@ This data was collected using a questionnaire on training habits during the proj
 * search\_area: average size of the search area of a training session in m²
 * dried: were dried plants included in training? (1 = yes, 0 = no)
 * fresh\_training: were fresh plants included in training? (1 = yes, 0 = no)
-* nr\_individuals: Number of plant individuals used for training (none, few, many)
+* nr\_individuals: number of plant individuals used for training (none, few, many)
 * plant\_parts: which/how many parts of the plant were used for training (1 = leaves, 2 = leaves and stem, 3 = leaves, stem and roots, 4 = leaves, stem, roots and flower)
 * reward: type of reward used for the dog (food, toy, both)
 * rew\_variety: did the reward vary, e.g. different types of food/toys (1 = yes, 0 = no)
@@ -64,8 +64,8 @@ This data includes variables which were used to calculate the team score.
 * team: individual team ID
 * points: team score, teams received points for starting and finishing test sessions, points were multiplied by the proportion detected in practical seminar, numerical between 0 and 9
 * fresh\_test: proportion of fresh samples hidden during the test
-* diff\_goal: Mean of deviation from average duration to reach a training goal (goal achieved = yes) in phase 1 and 2 (online training), in days
-* rel\_goal: Relative goal achievement, a normalized metric that quantifies the proportion of training steps in which a specific training goal was successfully achieved, relative to the total number of training steps filmed per team during phase 1 and 2 of online training; 0 indicates the goal was never achieved across any filmed step, 1 indicates the goal was achieved in every filmed step, values between 0 and 1 reflect partial achievement relative to the total available training steps filmed
+* diff\_goal: mean of deviation from average duration to reach a training goal (goal achieved = yes) in phase 1 and 2 (online training), in days
+* rel\_goal: relative goal achievement, a normalized metric that quantifies the proportion of training steps in which a specific training goal was successfully achieved, relative to the total number of training steps filmed per team during phase 1 and 2 of online training; 0 indicates the goal was never achieved across any filmed step, 1 indicates the goal was achieved in every filmed step, values between 0 and 1 reflect partial achievement relative to the total available training steps filmed
 * nr\_steps: number of training steps
 
 ## References

@@ -16,7 +16,7 @@ require(lme4)
 library(DHARMa)
 library(performance)
 library(patchwork)
-
+library(purrr)
 
 
 # Data preparation ####
@@ -419,4 +419,9 @@ panel <- (p3a  |  plot_legend) /
 
 
 ggsave("figure_4.tif", plot = panel, width = 12, height = 8, dpi = 500)
+
+# references ####
+(.packages()) %>%
+  map(citation) %>%
+  print(style = "text")
 
