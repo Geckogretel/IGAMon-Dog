@@ -12,6 +12,7 @@ library(dplyr)
 library(ggpubr)
 library(DHARMa)
 library(performance)
+library(purrr)
 
 # Data preparation ####
 ## Read data ####
@@ -339,4 +340,10 @@ p4
 all.mot<-ggarrange(p1,p3,p2,p4, labels="AUTO") 
 all.mot
 ggsave("Fig5.tif", plot = all.mot, width = 28, height = 14, dpi = 300)
+
+
+# references ####
+(.packages()) %>%
+  map(citation) %>%
+  print(style = "text")
 
