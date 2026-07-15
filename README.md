@@ -1,5 +1,5 @@
 # IGAMon-Dog
-Repository for the underlying R-code to analyse data from the IGAMon-Dog Project. 
+Repository for the underlying data and R-code to analyse data from the IGAMon-Dog Project. 
 These data support the publication:
 Annegret Grimm-Seyfarth, Wiebke Harms, Veronika Paulina Koch, Nora Haack, Alexander Harpke, Katja Krauss, Anne Berger. Opportunities and challenges in training volunteer wildlife detection dog-handler teams for invasive plant monitoring. Plos ONE.
 
