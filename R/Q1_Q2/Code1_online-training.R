@@ -17,6 +17,8 @@ library(patchwork)
 library(cowplot)
 library(DHARMa)
 library(performance)
+library(purrr)
+
 
 # Data preparation ####
 ## Read data ####
@@ -884,3 +886,9 @@ teams2 <- unique(teams)
 nrow(teams2)
 # one team without video assessment
 #write.csv2(teams2,"teams.csv", row.names = FALSE)
+
+# references ####
+(.packages()) %>%
+  map(citation) %>%
+  print(style = "text")
+

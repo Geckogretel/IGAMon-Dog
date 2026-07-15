@@ -1,95 +1,95 @@
 Schritt;Team;Datum;Tage_Ziel;Differenz_Durchschnitt;Ziel_erreicht;Belohnung;Anzeigedauer;MindestdauerAnzeige;Anzeige;Stoerreiz;Bemerkung;FCI_Gruppe;Rasse;Alter;Erfahrung;Geschlecht;Verstaerkerwahl;Anzeigeverhalten;Zielart
 1;78724;11.10.2022;24;4;1;korrekt;5;1;rp;0;;2;Zwergschnauzer;3;1;m;Futter;steht;Fallopia japonica
 3;78724;07.12.2022;81;12;1;korrekt;5;1;rp;0;;2;Zwergschnauzer;3;1;m;Futter;steht;Fallopia japonica
-4;78724;29.01.2023;134;27;1;korrekt;5;1;rp;0;Team generell sehr konzentriert und motiviert;2;Zwergschnauzer;3;1;m;Futter;steht;Fallopia japonica
+4;78724;29.01.2023;134;27;1;korrekt;5;1;rp;0;very well focused;2;Zwergschnauzer;3;1;m;Futter;steht;Fallopia japonica
 5;78724;29.01.2023;134;23;1;korrekt;5;1;rp;0;;2;Zwergschnauzer;3;1;m;Futter;steht;Fallopia japonica
-6;78724;18.03.2023;182;62;1;korrekt;5;1;rp;1;Training draußen auf öffentlicher Parkfläche;2;Zwergschnauzer;3;1;m;Futter;steht;Fallopia japonica
-7;78724;24.03.2023;188;49;0;korrekt;2;0;rp;2;"Anzeige zu kurz; Training im Park, viele Geräusche und  Menschen drumherum";2;Zwergschnauzer;3;1;m;Futter;steht;Fallopia japonica
-11;78724;25.03.2023;189;33;1;korrekt;5;1;rp;2;Training im Park;2;Zwergschnauzer;3;1;m;Futter;steht;Fallopia japonica
-12;78724;03.05.2023;228;40;1;korrekt;5;1;rp;1;Verleiter miteingebaut;2;Zwergschnauzer;3;1;m;Futter;steht;Fallopia japonica
-1;78759;18.09.2022;1;-19;1;korrekt;5;1;rp;0;"Hund wirkt unmotiviert; recht viel Zeitbis zur Belohnung; Lob eher verhalten";0;Labradoodle;5;0;m;Futter;wechselt;Ambrosia artemisiifolia
+6;78724;18.03.2023;182;62;1;korrekt;5;1;rp;1;outside, park;2;Zwergschnauzer;3;1;m;Futter;steht;Fallopia japonica
+7;78724;24.03.2023;188;49;0;korrekt;2;0;rp;2;outside, park, many people, alert too short;2;Zwergschnauzer;3;1;m;Futter;steht;Fallopia japonica
+11;78724;25.03.2023;189;33;1;korrekt;5;1;rp;2;park;2;Zwergschnauzer;3;1;m;Futter;steht;Fallopia japonica
+12;78724;03.05.2023;228;40;1;korrekt;5;1;rp;1;other decoys included (touching);2;Zwergschnauzer;3;1;m;Futter;steht;Fallopia japonica
+1;78759;18.09.2022;1;-19;1;korrekt;5;1;rp;0;"dog seems unmotivated; quite a long wait before the reward; praise is rather restrained";0;Labradoodle;5;0;m;Futter;wechselt;Ambrosia artemisiifolia
 3;78759;25.09.2022;8;-61;1;korrekt;5;1;rp;0;;0;Labradoodle;5;0;m;Futter;wechselt;Ambrosia artemisiifolia
-4;78759;04.12.2022;78;-29;1;korrekt;6;1;rp;0;"Hund wirkt motivierter als zu Beginn; klareres Lob";0;Labradoodle;5;0;m;Futter;wechselt;Ambrosia artemisiifolia
-5;78759;18.12.2022;92;-19;1;fehlerhaft;5;1;rp;0;Anzeige wird durch Bewegung der Besitzerin aufgelöst, erst dann kommt Lob (also wenn Hund Anzeige bereits abgebrochen hat);0;Labradoodle;5;0;m;Futter;wechselt;Ambrosia artemisiifolia
-6;78759;18.12.2022;92;-28;1;fehlerhaft;5;1;rp;0;Anzeige wird durch Bewegung der Besitzerin aufgelöst, erst dann kommt Lob (also wenn Hund Anzeige bereits abgebrochen hat);0;Labradoodle;5;0;m;Futter;wechselt;Ambrosia artemisiifolia
-7;78759;29.01.2023;134;-5;1;korrekt;5;1;rp;1;"im Garten; viel dynamischer durch Belohnung mit Spielzeug";0;Labradoodle;5;0;m;Futter;wechselt;Ambrosia artemisiifolia
+4;78759;04.12.2022;78;-29;1;korrekt;6;1;rp;0;dog seems more motivated, reward much better;0;Labradoodle;5;0;m;Futter;wechselt;Ambrosia artemisiifolia
+5;78759;18.12.2022;92;-19;1;fehlerhaft;5;1;rp;0;"The alert is broken by the owner’s movement; only then is reward given (i.e. once the dog has already broken the alert)";0;Labradoodle;5;0;m;Futter;wechselt;Ambrosia artemisiifolia
+6;78759;18.12.2022;92;-28;1;fehlerhaft;5;1;rp;0;"The alert is broken by the owner’s movement; only then is reward given (i.e. once the dog has already broken the alert)";0;Labradoodle;5;0;m;Futter;wechselt;Ambrosia artemisiifolia
+7;78759;29.01.2023;134;-5;1;korrekt;5;1;rp;1;in the garden, dynamic reward with toy looks better motivated;0;Labradoodle;5;0;m;Futter;wechselt;Ambrosia artemisiifolia
 11;78759;22.01.2023;127;-29;1;korrekt;5;1;rp;0;;0;Labradoodle;5;0;m;Futter;wechselt;Ambrosia artemisiifolia
-12;78759;13.03.2023;177;-11;1;korrekt;5;1;rp;1;"Hund hält Anzeige obwohl Besitzerin sich bewegt; im Garten";0;Labradoodle;5;0;m;Futter;wechselt;Ambrosia artemisiifolia
+12;78759;13.03.2023;177;-11;1;korrekt;5;1;rp;1;"Dog remains frozen even though its owner is moving; in the garden";0;Labradoodle;5;0;m;Futter;wechselt;Ambrosia artemisiifolia
 1;78924;26.09.2022;9;-11;1;korrekt;5;1;rp;0;;8;Lagotto Romagnolo;2;1;m;Futter;steht;Fallopia japonica
 3;78924;08.12.2022;82;13;1;korrekt;5;1;rp;0;;8;Lagotto Romagnolo;2;1;m;Futter;steht;Fallopia japonica
 4;78924;10.12.2022;84;-23;1;korrekt;5;1;rp;0;;8;Lagotto Romagnolo;2;1;m;Futter;steht;Fallopia japonica
 6;78924;08.02.2023;144;24;1;korrekt;5;1;rp;0;;8;Lagotto Romagnolo;2;1;m;Futter;steht;Fallopia japonica
-7;78924;27.02.2023;163;24;1;korrekt;5;1;rp;2;"im Park, Verkehr im Hintergrund; Pflanze im Glas";8;Lagotto Romagnolo;2;1;m;Futter;steht;Fallopia japonica
+7;78924;27.02.2023;163;24;1;korrekt;5;1;rp;2;park, traffic, plant within meadow;8;Lagotto Romagnolo;2;1;m;Futter;steht;Fallopia japonica
 11;78924;24.07.2023;310;154;1;korrekt;5;1;rp;1;;8;Lagotto Romagnolo;2;1;m;Futter;steht;Fallopia japonica
-12;78924;24.07.2023;310;122;1;korrekt;5;1;rp;2;Verstecke angetäuscht;8;Lagotto Romagnolo;2;1;m;Futter;steht;Fallopia japonica
-1;79118;18.09.2022;1;-19;1;korrekt;5;1;rp;0;Pflanze auf Bodenhöhe gehalten;1;Schäferhund-Mix;3;1;w;beides;steht;Impatiens glandulifera
+12;78924;24.07.2023;310;122;1;korrekt;5;1;rp;2;Fake hiding places;8;Lagotto Romagnolo;2;1;m;Futter;steht;Fallopia japonica
+1;79118;18.09.2022;1;-19;1;korrekt;5;1;rp;0;Plant held at ground level;1;Schäferhund-Mix;3;1;w;beides;steht;Impatiens glandulifera
 3;79118;09.11.2022;53;-16;1;korrekt;5;1;rp;0;;1;Schäferhund-Mix;3;1;w;beides;steht;Impatiens glandulifera
 4;79118;09.11.2022;53;-54;1;korrekt;5;1;rp;0;;1;Schäferhund-Mix;3;1;w;beides;steht;Impatiens glandulifera
 5;79118;09.01.2023;114;3;1;korrekt;5;1;rp;1;;1;Schäferhund-Mix;3;1;w;beides;steht;Impatiens glandulifera
 6;79118;20.11.2022;64;-56;1;korrekt;5;1;rp;0;;1;Schäferhund-Mix;3;1;w;beides;steht;Impatiens glandulifera
-7;79118;10.12.2022;84;-55;1;korrekt;6;1;rp;2;draußen auf öffentlichem Gelände;1;Schäferhund-Mix;3;1;w;beides;steht;Impatiens glandulifera
+7;79118;10.12.2022;84;-55;1;korrekt;6;1;rp;2;outside;1;Schäferhund-Mix;3;1;w;beides;steht;Impatiens glandulifera
 11;79118;19.12.2022;93;-63;1;korrekt;5;1;rp;0;;1;Schäferhund-Mix;3;1;w;beides;steht;Impatiens glandulifera
-12;79118;17.02.2023;153;-35;1;korrekt;5;1;rp;1;"im Wald; Hund generell sehr aufgeregt beim Suchen und Anzeigen";1;Schäferhund-Mix;3;1;w;beides;steht;Impatiens glandulifera
+12;79118;17.02.2023;153;-35;1;korrekt;5;1;rp;1;forest, very over-excited dog;1;Schäferhund-Mix;3;1;w;beides;steht;Impatiens glandulifera
 1;79309;02.10.2022;15;-5;1;korrekt;7;1;rp;0;;7;Pointermix;3;2;w;Futter;steht;Impatiens glandulifera
-3;79309;07.11.2022;51;-18;1;korrekt;5;1;rp;1;im Treppenhaus;7;Pointermix;3;2;w;Futter;steht;Impatiens glandulifera
-4;79309;07.11.2022;51;-56;1;korrekt;5;1;rp;1;im Treppenhaus;7;Pointermix;3;2;w;Futter;steht;Impatiens glandulifera
+3;79309;07.11.2022;51;-18;1;korrekt;5;1;rp;1;staircase;7;Pointermix;3;2;w;Futter;steht;Impatiens glandulifera
+4;79309;07.11.2022;51;-56;1;korrekt;5;1;rp;1;staircase;7;Pointermix;3;2;w;Futter;steht;Impatiens glandulifera
 5;79309;18.12.2022;92;-19;1;korrekt;5;1;rp;0;;7;Pointermix;3;2;w;Futter;steht;Impatiens glandulifera
-6;79309;07.11.2022;51;-69;1;korrekt;5;1;rp;1;im Treppenhaus;7;Pointermix;3;2;w;Futter;steht;Impatiens glandulifera
-7;79309;14.11.2022;58;-81;1;korrekt;7;1;rp;1;im Garten;7;Pointermix;3;2;w;Futter;steht;Impatiens glandulifera
-11;79309;26.11.2022;70;-86;1;korrekt;6;1;rp;2;im Park, andere Menschen drumherum;7;Pointermix;3;2;w;Futter;steht;Impatiens glandulifera
-12;79309;12.12.2022;86;-102;1;korrekt;6;1;rp;1;Besitzerin fasst Hund zur Ablenkung während Anzeige an;7;Pointermix;3;2;w;Futter;steht;Impatiens glandulifera
+6;79309;07.11.2022;51;-69;1;korrekt;5;1;rp;1;staircase;7;Pointermix;3;2;w;Futter;steht;Impatiens glandulifera
+7;79309;14.11.2022;58;-81;1;korrekt;7;1;rp;1;garden;7;Pointermix;3;2;w;Futter;steht;Impatiens glandulifera
+11;79309;26.11.2022;70;-86;1;korrekt;6;1;rp;2;park with people;7;Pointermix;3;2;w;Futter;steht;Impatiens glandulifera
+12;79309;12.12.2022;86;-102;1;korrekt;6;1;rp;1;owner touches dog to distract his alert;7;Pointermix;3;2;w;Futter;steht;Impatiens glandulifera
 1;79313;30.09.2022;13;-7;1;korrekt;5;1;rp;0;;6;Bayrischer Gebirgsschweißhund;1;1;m;Futter;steht;Ambrosia artemisiifolia
 3;79313;02.10.2022;15;-54;1;korrekt;5;1;rp;0;;6;Bayrischer Gebirgsschweißhund;1;1;m;Futter;steht;Ambrosia artemisiifolia
 4;79313;05.12.2022;79;-28;1;korrekt;5;1;rp;0;;6;Bayrischer Gebirgsschweißhund;1;1;m;Futter;steht;Ambrosia artemisiifolia
 5;79313;11.11.2022;55;-56;1;korrekt;5;1;rp;0;;6;Bayrischer Gebirgsschweißhund;1;1;m;Futter;steht;Ambrosia artemisiifolia
 6;79313;07.01.2023;112;-8;1;korrekt;11;1;rp;0;;6;Bayrischer Gebirgsschweißhund;1;1;m;Futter;steht;Ambrosia artemisiifolia
-7;79313;25.01.2023;130;-9;1;korrekt;8;1;rp;1;draußen;6;Bayrischer Gebirgsschweißhund;1;1;m;Futter;steht;Ambrosia artemisiifolia
-11;79313;07.01.2023;112;-44;1;korrekt;7;1;rp;0;neue Verstecke in der Wohnung;6;Bayrischer Gebirgsschweißhund;1;1;m;Futter;steht;Ambrosia artemisiifolia
-12;79313;06.02.2023;142;-46;1;korrekt;10;1;rp;1;Besitzerin bewegt sich zur Ablenkung stark neben dem Hund während der Anzeige;6;Bayrischer Gebirgsschweißhund;1;1;m;Futter;steht;Ambrosia artemisiifolia
+7;79313;25.01.2023;130;-9;1;korrekt;8;1;rp;1;outside;6;Bayrischer Gebirgsschweißhund;1;1;m;Futter;steht;Ambrosia artemisiifolia
+11;79313;07.01.2023;112;-44;1;korrekt;7;1;rp;0;new hiding places;6;Bayrischer Gebirgsschweißhund;1;1;m;Futter;steht;Ambrosia artemisiifolia
+12;79313;06.02.2023;142;-46;1;korrekt;10;1;rp;1;owner moves around a lot next to the dog during the alert to distract it;6;Bayrischer Gebirgsschweißhund;1;1;m;Futter;steht;Ambrosia artemisiifolia
 1;79316;05.10.2022;18;-2;1;korrekt;5;1;rp;0;;1;Tervueren (BelgischerSchäferhund CH);1;2;w;beides;steht;Impatiens glandulifera
-3;79316;15.11.2022;59;-10;1;korrekt;6;1;rp;1;weitere Personen im Raum, Stimmen im Hintergrund;1;Tervueren (BelgischerSchäferhund CH);1;2;w;beides;steht;Impatiens glandulifera
+3;79316;15.11.2022;59;-10;1;korrekt;6;1;rp;1;other people and voices;1;Tervueren (BelgischerSchäferhund CH);1;2;w;beides;steht;Impatiens glandulifera
 4;79316;30.11.2022;74;-33;1;korrekt;5;1;rp;0;;1;Tervueren (BelgischerSchäferhund CH);1;2;w;beides;steht;Impatiens glandulifera
-5;79316;13.03.2023;177;66;1;korrekt;5;1;rp;1;Besitzerin bewegt sich während der Anzeige zur Ablenkung;1;Tervueren (BelgischerSchäferhund CH);1;2;w;beides;steht;Impatiens glandulifera
+5;79316;13.03.2023;177;66;1;korrekt;5;1;rp;1;owner moves around a lot next to the dog during the alert to distract it;1;Tervueren (BelgischerSchäferhund CH);1;2;w;beides;steht;Impatiens glandulifera
 6;79316;27.02.2023;163;43;1;korrekt;5;1;rp;0;;1;Tervueren (BelgischerSchäferhund CH);1;2;w;beides;steht;Impatiens glandulifera
-7;79316;10.12.2022;84;-55;1;korrekt;5;1;rp;1;bei Schnee im Garten;1;Tervueren (BelgischerSchäferhund CH);1;2;w;beides;steht;Impatiens glandulifera
-11;79316;14.01.2023;119;-37;0;korrekt;1;0;rp;2;"im Garten; Hund hat hohe Grundanspannung, Anzeige nicht länger als 1s, Hund bleibt jedoch bei Pflanze";1;Tervueren (BelgischerSchäferhund CH);1;2;w;beides;steht;Impatiens glandulifera
-12;79316;16.03.2023;180;-8;1;korrekt;5;1;rp;2;"Verleitergerüche eingebaut; draußen auf Trainingsplatz; bleibt bei Pflanze stehen (Stand verändert sich nicht), Blick wechselt zwischen Pflanze und Besitzerin";1;Tervueren (BelgischerSchäferhund CH);1;2;w;beides;steht;Impatiens glandulifera
-1;79322;07.11.2022;51;31;1;korrekt;5;1;rp;0;"Team sehr lange beim selben Schritt; Vermutung: Hätten früher Trainingsziel erreichen können";1;Langhaarcollie;2;3;m;Futter;steht;Impatiens glandulifera
-3;79322;13.02.2023;149;80;1;korrekt;9;1;rp;0;"Hörzeichen erst spät eingebaut; Vermutung: Hätten Trainingsziel früher erreichen können";1;Langhaarcollie;2;3;m;Futter;steht;Impatiens glandulifera
+7;79316;10.12.2022;84;-55;1;korrekt;5;1;rp;1;in the garden with snow;1;Tervueren (BelgischerSchäferhund CH);1;2;w;beides;steht;Impatiens glandulifera
+11;79316;14.01.2023;119;-37;0;korrekt;1;0;rp;2;"in the garden; the dog is highly tense, the alert lasts no longer than 1 second, but the dog remains by the plant";1;Tervueren (BelgischerSchäferhund CH);1;2;w;beides;steht;Impatiens glandulifera
+12;79316;16.03.2023;180;-8;1;korrekt;5;1;rp;2;"Distracting scents have been introduced; outside on the training ground; stops in front of the plant (position does not change), gaze shifts between the plant and its owner";1;Tervueren (BelgischerSchäferhund CH);1;2;w;beides;steht;Impatiens glandulifera
+1;79322;07.11.2022;51;31;1;korrekt;5;1;rp;0;"The team has been stuck on the same step for a very long time; assumption: they could have achieved their training goal sooner";1;Langhaarcollie;2;3;m;Futter;steht;Impatiens glandulifera
+3;79322;13.02.2023;149;80;1;korrekt;9;1;rp;0;"Audio cues were introduced quite late; assumption: we could have achieved the training objective sooner";1;Langhaarcollie;2;3;m;Futter;steht;Impatiens glandulifera
 4;79322;13.02.2023;149;42;1;korrekt;5;1;rp;0;;1;Langhaarcollie;2;3;m;Futter;steht;Impatiens glandulifera
 5;79322;17.02.2023;153;42;1;korrekt;5;1;rp;0;;1;Langhaarcollie;2;3;m;Futter;steht;Impatiens glandulifera
-6;79322;22.02.2023;158;38;0;korrekt;7;1;rp;0;Abstand zwischen Mensch und Pflanze nicht ausgebaut, nur Abstand zwischen Hund und Pflanze am Startpunkt;1;Langhaarcollie;2;3;m;Futter;steht;Impatiens glandulifera
-7;79322;12.03.2023;176;37;0;korrekt;1;0;rp;2;starke Ablenkung, da im Außenbereich eines Hundehotels;1;Langhaarcollie;2;3;m;Futter;steht;Impatiens glandulifera
-11;79322;17.04.2023;212;56;1;korrekt;5;1;rp;1;"Training draußen, anderer Hund dabei; Besitzerin belohnt oft sehr schnell";1;Langhaarcollie;2;3;m;Futter;steht;Impatiens glandulifera
-12;79322;26.06.2023;282;94;1;korrekt;5;1;rp;1;Training im Feld, Ablenkungsgerüche vorhanden. Schritt wäre eher erreicht worden, wenn Anzeige länger gewesen wäre;1;Langhaarcollie;2;3;m;Futter;steht;Impatiens glandulifera
+6;79322;22.02.2023;158;38;0;korrekt;7;1;rp;0;"No distance between the person and the plant; only a distance between the dog and the plant at the starting point";1;Langhaarcollie;2;3;m;Futter;steht;Impatiens glandulifera
+7;79322;12.03.2023;176;37;0;korrekt;1;0;rp;2;outside dog hotel;1;Langhaarcollie;2;3;m;Futter;steht;Impatiens glandulifera
+11;79322;17.04.2023;212;56;1;korrekt;5;1;rp;1;outside, other dog, reward very fast;1;Langhaarcollie;2;3;m;Futter;steht;Impatiens glandulifera
+12;79322;26.06.2023;282;94;1;korrekt;5;1;rp;1;Training in the field, with distracting smells present. The target would have been reached sooner if the display had lasted longer;1;Langhaarcollie;2;3;m;Futter;steht;Impatiens glandulifera
 1;79341;24.10.2022;37;17;1;korrekt;6;1;rp;0;;8;Lagotto Romagnolo;2;0;m;Futter;steht;Ambrosia artemisiifolia
 3;79341;30.01.2023;135;66;1;korrekt;5;1;rp;0;;8;Lagotto Romagnolo;2;0;m;Futter;steht;Ambrosia artemisiifolia
 4;79341;30.01.2023;135;28;1;korrekt;5;1;rp;0;;8;Lagotto Romagnolo;2;0;m;Futter;steht;Ambrosia artemisiifolia
 5;79341;30.01.2023;135;24;1;korrekt;5;1;rp;0;;8;Lagotto Romagnolo;2;0;m;Futter;steht;Ambrosia artemisiifolia
 6;79341;20.02.2023;156;36;1;korrekt;10;1;rp;0;;8;Lagotto Romagnolo;2;0;m;Futter;steht;Ambrosia artemisiifolia
-7;79341;13.03.2023;177;38;1;korrekt;6;1;rp;0;neuer Ort (Ferienhaus);8;Lagotto Romagnolo;2;0;m;Futter;steht;Ambrosia artemisiifolia
+7;79341;13.03.2023;177;38;1;korrekt;6;1;rp;0;new location;8;Lagotto Romagnolo;2;0;m;Futter;steht;Ambrosia artemisiifolia
 11;79341;13.03.2023;177;21;1;korrekt;6;1;rp;0;;8;Lagotto Romagnolo;2;0;m;Futter;steht;Ambrosia artemisiifolia
-12;79341;14.05.2023;239;51;1;korrekt;5;1;rp;2;im Park, viele Geräusche, andere Menschen drumherum;8;Lagotto Romagnolo;2;0;m;Futter;steht;Ambrosia artemisiifolia
-1;79362;20.10.2022;33;13;1;korrekt;5;1;rp;1;Radio läuft im Hintergrund;1;Tschechoslowakischer Wolfshund;1;0;m;Futter;steht;Impatiens glandulifera
-3;79362;08.11.2022;52;-17;1;korrekt;5;1;rp;0;"Hund zeigt wenig Motivation überhaupt zu interagieren; Hund gähnt jedoch häufig oder wendet Blick ab, legt Ohren nach hinten";1;Tschechoslowakischer Wolfshund;1;0;m;Futter;steht;Impatiens glandulifera
-4;79362;27.11.2022;71;-36;0;korrekt;1;0;rp;0;"Hund zeigt nur kurz an und guckt dann weg; Pflanze im Glas";1;Tschechoslowakischer Wolfshund;1;0;m;Futter;steht;Impatiens glandulifera
-6;79362;27.12.2022;101;-19;1;korrekt;5;1;rp;0;Pflanze im Glas;1;Tschechoslowakischer Wolfshund;1;0;m;Futter;steht;Impatiens glandulifera
-7;79362;17.04.2023;212;73;0;korrekt;0;0;fn;3;"Anzeige draußen sehr schwierig für Hund; stark abgelenkt, wenig Interesse an Training";1;Tschechoslowakischer Wolfshund;1;0;m;Futter;steht;Impatiens glandulifera
-11;79362;01.05.2023;226;70;0;korrekt;0;0;fn;3;Suche scheint Hund mehr Spaß zu machen, Hund bricht Anzeige aber ab sobald er gefunden hat;1;Tschechoslowakischer Wolfshund;1;0;m;Futter;steht;Impatiens glandulifera
+12;79341;14.05.2023;239;51;1;korrekt;5;1;rp;2;park, many sounds, people;8;Lagotto Romagnolo;2;0;m;Futter;steht;Ambrosia artemisiifolia
+1;79362;20.10.2022;33;13;1;korrekt;5;1;rp;1;radio on;1;Tschechoslowakischer Wolfshund;1;0;m;Futter;steht;Impatiens glandulifera
+3;79362;08.11.2022;52;-17;1;korrekt;5;1;rp;0;"dog shows little motivation to interact at all; however, the dog yawns frequently or looks away, and its ears are laid back";1;Tschechoslowakischer Wolfshund;1;0;m;Futter;steht;Impatiens glandulifera
+4;79362;27.11.2022;71;-36;0;korrekt;1;0;rp;0;"The dog alerts at it briefly and then looks away; a plant in a glass";1;Tschechoslowakischer Wolfshund;1;0;m;Futter;steht;Impatiens glandulifera
+6;79362;27.12.2022;101;-19;1;korrekt;5;1;rp;0;plant in glass;1;Tschechoslowakischer Wolfshund;1;0;m;Futter;steht;Impatiens glandulifera
+7;79362;17.04.2023;212;73;0;korrekt;0;0;fn;3;"Outdoor training is very difficult for the dog; he is easily distracted and shows little interest in training";1;Tschechoslowakischer Wolfshund;1;0;m;Futter;steht;Impatiens glandulifera
+11;79362;01.05.2023;226;70;0;korrekt;0;0;fn;3;The dog seems to enjoy the search more, but stops alert as soon as he has found what he is looking for;1;Tschechoslowakischer Wolfshund;1;0;m;Futter;steht;Impatiens glandulifera
 1;79372;10.10.2022;23;3;1;korrekt;5;1;rp;0;;3;Cairn Terrier;1;2;w;Futter;steht;Fallopia japonica
-3;79372;10.12.2022;84;15;0;fehlerhaft;0;0;fn;0;"Hund scheint nicht zu verstehen, was er tun soll; bleibt zwar manchmal vor Pflanze stehen, aber wirkt überfordert; nach einiger Zeit bellt er immer nach Kommando (Frust?)";3;Cairn Terrier;1;2;w;Futter;steht;Fallopia japonica
-4;79372;13.08.2023;330;223;1;korrekt;5;1;rp;1;"Training im Garten; Hund versteht jetzt die Aufgabe; weiteres Training nicht mehr hochgeladen";3;Cairn Terrier;1;2;w;Futter;steht;Fallopia japonica
+3;79372;10.12.2022;84;15;0;fehlerhaft;0;0;fn;0;"The dog doesn’t seem to understand what he’s supposed to do; he does sometimes stop in front of the plant, but seems overwhelmed; after a while, he always barks on command (out of frustration?)";3;Cairn Terrier;1;2;w;Futter;steht;Fallopia japonica
+4;79372;13.08.2023;330;223;1;korrekt;5;1;rp;1;"Training in the garden; the dog now understands the task; further training sessions have not been uploaded";3;Cairn Terrier;1;2;w;Futter;steht;Fallopia japonica
 1;79374;04.10.2022;17;-3;1;korrekt;6;1;rp;0;;0;Mischling;3;3;m;Futter;steht;Fallopia japonica
 3;79374;13.10.2022;26;-43;1;korrekt;6;1;rp;0;;0;Mischling;3;3;m;Futter;steht;Fallopia japonica
 4;79374;16.10.2022;29;-78;1;korrekt;6;1;rp;0;;0;Mischling;3;3;m;Futter;steht;Fallopia japonica
 5;79374;21.10.2022;34;-77;1;korrekt;7;1;rp;0;;0;Mischling;3;3;m;Futter;steht;Fallopia japonica
 6;79374;21.10.2022;34;-86;1;korrekt;7;1;rp;0;;0;Mischling;3;3;m;Futter;steht;Fallopia japonica
-7;79374;07.11.2022;51;-88;1;korrekt;7;1;rp;2;Training draußen, Verkehr und Wind als Ablenkung;0;Mischling;3;3;m;Futter;steht;Fallopia japonica
-11;79374;04.12.2022;78;-78;1;korrekt;9;1;rp;0;insgesamt sehr konzentrierte und motivierte Arbeit des Teams;0;Mischling;3;3;m;Futter;steht;Fallopia japonica
-12;79374;04.12.2022;78;-110;1;korrekt;7;1;rp;1;andere Pflanzen als Ablenkung ausgelegt;0;Mischling;3;3;m;Futter;steht;Fallopia japonica
+7;79374;07.11.2022;51;-88;1;korrekt;7;1;rp;2;outside, traffic, windy;0;Mischling;3;3;m;Futter;steht;Fallopia japonica
+11;79374;04.12.2022;78;-78;1;korrekt;9;1;rp;0;very focussed and motivated;0;Mischling;3;3;m;Futter;steht;Fallopia japonica
+12;79374;04.12.2022;78;-110;1;korrekt;7;1;rp;1;other plants as distractions laid out;0;Mischling;3;3;m;Futter;steht;Fallopia japonica
 1;79422;10.10.2022;23;3;1;korrekt;6;1;rp;0;;0;Mischling (Golden Retriever/ Catahoula);1;2;m;Futter;steht;Fallopia japonica
 3;79422;26.12.2022;100;31;1;korrekt;6;1;rp;0;;0;Mischling (Golden Retriever/ Catahoula);1;2;m;Futter;steht;Fallopia japonica
-4;79422;14.01.2023;119;12;1;korrekt;7;1;rp;1;Musik im Hintergrund;0;Mischling (Golden Retriever/ Catahoula);1;2;m;Futter;steht;Fallopia japonica
-5;79422;14.01.2023;119;8;1;korrekt;7;1;rp;1;Musik im Hintergrund;0;Mischling (Golden Retriever/ Catahoula);1;2;m;Futter;steht;Fallopia japonica
-6;79422;14.03.2023;178;58;1;korrekt;5;1;rp;1;Fernseher läuft im Hintergrund;0;Mischling (Golden Retriever/ Catahoula);1;2;m;Futter;steht;Fallopia japonica
-7;79422;14.04.2023;209;70;0;korrekt;1;0;rp;2;"Anzeige zu kurz; weitere Menschen und Hunde mit dabei, Training draußen; Wechsel zu Spielzeug als Verstärker; weiteres Training nicht hochgeladen";0;Mischling (Golden Retriever/ Catahoula);1;2;m;Futter;steht;Fallopia japonica
+4;79422;14.01.2023;119;12;1;korrekt;7;1;rp;1;music;0;Mischling (Golden Retriever/ Catahoula);1;2;m;Futter;steht;Fallopia japonica
+5;79422;14.01.2023;119;8;1;korrekt;7;1;rp;1;music;0;Mischling (Golden Retriever/ Catahoula);1;2;m;Futter;steht;Fallopia japonica
+6;79422;14.03.2023;178;58;1;korrekt;5;1;rp;1;tv in background;0;Mischling (Golden Retriever/ Catahoula);1;2;m;Futter;steht;Fallopia japonica
+7;79422;14.04.2023;209;70;0;korrekt;1;0;rp;2;"Video too short; other people and dogs present; outdoor training; plans to switch to using toys as rewards; further training not uploaded";0;Mischling (Golden Retriever/ Catahoula);1;2;m;Futter;steht;Fallopia japonica
